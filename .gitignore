@@ -12,6 +12,10 @@
 *.cb2
 .*.lb
 
+answer/
+*.ipynb
+.DS_Store
+
 ## Intermediate documents:
 *.dvi
 *.xdv
