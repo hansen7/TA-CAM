@@ -22,5 +22,5 @@ TODO:
 
 ​	add some example on *characteristic functions*
 
-​	add solutions to example papers 1,3,4
+​	add solutions to example papers 4
 

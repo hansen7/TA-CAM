@@ -12,7 +12,7 @@
 *.cb2
 .*.lb
 
-answer/
+*/answer/
 *.ipynb
 .DS_Store
 
