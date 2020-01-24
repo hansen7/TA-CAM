@@ -2,7 +2,7 @@
 
 - ### Origianlly for 2020 Lent Term
 
-- 
+- [course website](http://teaching.eng.cam.ac.uk/content/engineering-tripos-part-iia-3f8-inference-2019-20)
 
 - 
 
