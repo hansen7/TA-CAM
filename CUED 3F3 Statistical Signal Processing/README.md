@@ -1,16 +1,14 @@
-Some picked extensions of the lecture contents:
+**Receommneeded courses and Lecture Notes**:
 
-- ch. 1-3 of *All of Statistics*
+- chapter 1-3 of *All of Statistics*
 
-- ch. 10 of *Probability and Random Processes for Electrical and Computer Engineers*
+- chapter 10 of *Probability and Random Processes for Electrical and Computer Engineers*
+
+- [Stanford EE278 Statistical Signal Processing](https://web.stanford.edu/class/ee278/reading.html): covers most topics of 3F3 lectures, along with extra materials such as Kalman filter and neural networks for mean-squared estimation.
+
+- [Stanford EE387A Statistical Signal Processing](https://web.stanford.edu/class/ee378a/material.html): covers advanced topics such as minimax, information-theoretic functionals, estimation of high-dimensional Functionals, nonparametric estimation and learning theory.
 
 
 
-Some recommended notes and courses:
-
-- [Notes on Power Spectrum Estimation](https://www.commsp.ee.ic.ac.uk/~mandic/SE_ASP_LN/ASP_MI_Lecture_3_NonParametricSE_2017_DPM.pdf)
-
-- [Stanford EE278 Statistical Signal Processing](https://web.stanford.edu/class/ee278/reading.html): covers most topics of 3F3, along with extra materials such as Kalman Filter and Neural Networks for Mean-Squared Estimation.
-
-- [Stanford EE387A Statistical Signal Processing](https://web.stanford.edu/class/ee378a/material.html): covers advanced topics such as Minimax, Information-Theoretic Functionals, Estimation of High-dimensional Functionals, Nonparametric Estimation, Learning Theory.
+**Past Tripos exam papers are archived [here](http://teaching.eng.cam.ac.uk/course-codes-tripos-examination-papers-repository/3f3)**
 
